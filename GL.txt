@@ -1,0 +1,18 @@
+2019 Learnings
+
+1.5 hours Dailiy 9-10:30
+
+Repository : GIT
+build : Maven
+language/Framework : JAVA 8/9/10/Spring 5,Spring Boot/Hibernate/Web Services (SOAP/REST)
+DB: Mongo DB/PL SQL
+UI: Angular/Node JS
+Unit testing
+Design pattern
+AWS
+
+Online Selling Platform
+
+
+GIT
+Cred: nikunj.panelia@gmail.com/NikPan@123
