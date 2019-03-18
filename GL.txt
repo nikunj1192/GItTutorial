@@ -16,3 +16,4 @@ Online Selling Platform
 
 GIT
 Cred: nikunj.panelia@gmail.com/NikPan@123
+GIT Clone,add,commit,push,pull
