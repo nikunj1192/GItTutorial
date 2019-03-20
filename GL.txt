@@ -17,5 +17,5 @@ Online Selling Platform
 GIT
 Cred: nikunj.panelia@gmail.com/NikPan@123
 GIT Clone,add,commit,push,pull
-branch, checkout, push -u origin
+branch, checkout, push -u origin, merge
 escape:wq
